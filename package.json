@@ -1,0 +1,19 @@
+{
+  "name": "firstgame",
+  "version": "1.0.0",
+  "description": "this is me, writing a game",
+  "main": "index.js",
+  "dependencies": {
+    "electron": "^5.0.7"
+  },
+  "devDependencies": {},
+  "scripts": { 
+    "start":"electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/navjeet7894"
+  },
+  "author": "Navjeet kaur sanghera",
+  "license": "MIT"
+}
